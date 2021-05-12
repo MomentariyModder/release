@@ -7,7 +7,7 @@
 <p style="text-align: center;"><strong>PerodiumCraft 3.0: 1.16.5 - DEVELOPMENT</strong></p>
 <p style="text-align: center;"><strong>PerodiumCraft2: 1.15.2 - CANCELED</strong></p>
 <p style="text-align: center;"><strong>SpongeBob Squarepants Reload: 1.14.4,1.15.2,1.16.5 - Supported</strong></p>
-<p style="text-align: center;"><strong>Glass Doors and Trapdoors: 1.15.2 - Supported</strong></p>
+<p style="text-align: center;"><strong>Glass Doors and Trapdoors: 1.15.2 - Unsupported</strong></p>
 <p style="text-align: center;"><strong>▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰</strong></p>
 
 
