@@ -1,0 +1,2 @@
+Development of PerodiumCraft was resumed, but for 1.16.5+. Much will be different from version 1.12.2.
+And, yes, the PerodiumCraft2 mod is PerodiumCraft on 1.16.5.
