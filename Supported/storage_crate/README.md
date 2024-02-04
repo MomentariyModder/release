@@ -21,7 +21,7 @@
     <tr>
         <td><p align="center"><b>1.18.2</b></p></td>
         <td><p align="center">1.0.0</p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/storage_crate/forge/1.19.2/%5B1.18.2%5DStorage%20Crate%5B1.0.0%5D.jar">Forge</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/storage_crate/forge/1.18.2/%5B1.18.2%5DStorage%20Crate%5B1.0.0%5D.jar">Forge</a></p></td>
     </tr></tbody>
 </table>
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
