@@ -10,9 +10,9 @@
     </tr>
     <tr>
         <td><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center">5.3.2</p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.3.2%5D.jar">NeoForge/Forge</a></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DMomentariyModder'Applications%5B5.3.2%5D.jar">Fabric/Quilt</a></p></td>
+        <td><p align="center">5.4.0</p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">NeoForge/Forge</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">Fabric/Quilt</a></p></td>
     </tr>
     <tr>
         <td><p align="center"><b>1.19.4</b></p></td>
