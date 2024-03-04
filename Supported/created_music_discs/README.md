@@ -8,6 +8,11 @@
         <td><h4 align="center">Mod Version</h4></td>
         <td colspan="2"><h4 align="center">Download</h4></td>
     </tr>
+	<tr>
+        <td><p align="center"><b>1.20.4</b></p></td>
+        <td><p align="center">4.0.0</p></td>
+        <td colspan="2"><p align="center">Coming Soon!</p></td>
+    </tr>
     <tr>
         <td><p align="center"><b>1.20.1</b></p></td>
         <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.5.0">3.5.0</a></p></td>

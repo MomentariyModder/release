@@ -8,6 +8,11 @@
         <td><h4 align="center">Mod Version</h4></td>
         <td colspan="2"><h4 align="center">Download</h4></td>
     </tr>
+	<tr>
+        <td><p align="center"><b>1.20.4</b></p></td>
+        <td><p align="center">6.0.0</p></td>
+        <td colspan="2"><p align="center">Coming Soon!</p></td>
+    </tr>
     <tr>
         <td><p align="center"><b>1.20.1</b></p></td>
         <td><p align="center">5.4.0</p></td>
