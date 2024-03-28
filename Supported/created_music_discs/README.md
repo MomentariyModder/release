@@ -15,9 +15,9 @@
     </tr>
     <tr>
         <td><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.5.0">3.5.0</a></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/forge/1.20.1/%5BNeoLexForge%201.20.1%5DCreated%20Music%20Discs%5B3.5.0%5D.jar">NeoForge/Forge</a></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DCreated%20Music%20Discs%5B3.5.0%5D.jar">Fabric/Quilt</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.6.0">3.6.0</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/forge/1.20.1/%5BNeoLexForge%201.20.1%5DCreated%20Music%20Discs%5B3.6.0%5D.jar">NeoForge/Forge</a></p></td>
+        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DCreated%20Music%20Discs%5B3.6.0%5D.jar">Fabric/Quilt</a></p></td>
     </tr>
     <tr>
         <td><p align="center"><b>1.19.4</b></p></td>
