@@ -10,8 +10,8 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
-        <td><p align="center">4.0.0</p></td>
-        <td colspan="2"><p align="center">Coming Soon!</p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/nvh-4.0.0">4.0.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/night_vision_helmets/neoforge/1.20.4/%5BNeoForge%201.20.4%5DNight%20Vision%20Helmets%5B4.0.0%5D.jar">NeoForge</a></p></td>
     </tr>
     <tr>
         <td><p align="center"><b>1.20.1</b></p></td>
