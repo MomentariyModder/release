@@ -1,6 +1,9 @@
 <p><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/site/line.png" alt="" /></p>
 <table><tbody>
     <tr>
+        <td colspan="5"><img src="https://raw.githubusercontent.com/MomentariyModder/branding/main/sites/projects-banner/mma.png" width="100%"></td>
+    </tr>
+    <tr>
         <td colspan="5"><h3 align="center">Latest Released</h3></td>
     </tr>
     <tr>
@@ -8,6 +11,12 @@
         <td><h4 align="center">Mod Version</h4></td>
         <td colspan="2"><h4 align="center">Download</h4></td>
 		<td><h4 align="center">Status</h4></td>
+    </tr>
+	<tr>
+        <td><p align="center"><b>1.21.x</b></p></td>
+        <td><p align="center">8.0.0</p></td>
+        <td colspan="2"><p align="center">Coming Soon!</p></td>
+        <td><p align="center">Planned</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
@@ -18,15 +27,19 @@
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
         <td><p align="center"><a href="https://momentariymodder.xyz/blog/mma-6.0.0">6.0.0</a></p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/neoforge/1.20.4/%5BNeoForge%201.20.4%5DMomentariyModder'Applications%5B6.0.0%5D.jar">NeoForge/</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/neoforge/1.20.4/%5BNeoForge%201.20.4%5DMomentariyModder'Applications%5B6.0.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
     <tr>
-        <td><p align="center"><b>1.20.1</b></p></td>
+        <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
         <td><p align="center">5.4.0</p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">NeoForge/Forge</a></p></td>
-        <td><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">Fabric/Quilt</a></p></td>
-		<td><p align="center">LTS</p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">NeoForge/Forge</a></p></td>
+        <td><p align="center">LTS</p></td>
+    </tr>
+	<tr>
+        <td><p align="center">5.4.0</p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">Fabric/Quilt</a></p></td>
+		<td><p align="center">End of Life</p></td>
     </tr>
     <tr>
         <td><p align="center"><b>1.19.4</b></p></td>
