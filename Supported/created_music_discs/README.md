@@ -20,15 +20,15 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center">5.0.0</p></td>
-        <td colspan="2"><p align="center">Coming Soon!</p></td>
-        <td><p align="center">Planned</p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/triple-update">5.0.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/neoforge/1.20.6/%5BNeoForge%201.20.6%5DCreated%20Music%20Discs%5B5.0.0%5D.jar">NeoForge</a></p></td>
+        <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
         <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.7.0-4.1.0">4.1.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/neoforge/1.20.4/%5BNeoForge%201.20.4%5DCreated%20Music%20Discs%5B4.1.0%5D.jar">NeoForge</a></p></td>
-        <td><p align="center">Active</p></td>
+        <td><p align="center">End of Life</p></td>
     </tr>
     <tr>
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
