@@ -20,8 +20,8 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/triple-update">5.0.0</a></p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/neoforge/1.20.6/%5BNeoForge%201.20.6%5DCreated%20Music%20Discs%5B5.0.0%5D.jar">NeoForge</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.8.0-5.1.0">5.1.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/neoforge/1.20.6/%5BNeoForge%201.20.6%5DCreated%20Music%20Discs%5B5.1.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
@@ -32,9 +32,9 @@
     </tr>
     <tr>
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.7.0-4.1.0">3.7.0</a></p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/forge/1.20.1/%5BNeoLexForge%201.20.1%5DCreated%20Music%20Discs%5B3.7.0%5D.jar">NeoForge/Forge</a></p></td>
-        <td><p align="center">LTS</p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.8.0-5.1.0">3.8.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/created_music_discs/forge/1.20.1/%5BNeoLexForge%201.20.1%5DCreated%20Music%20Discs%5B3.8.0%5D.jar">NeoForge/Forge</a></p></td>
+        <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.6.0">3.6.0</a></p></td>
