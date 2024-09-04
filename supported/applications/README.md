@@ -20,8 +20,8 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/mma-7.0.0">7.0.0</a></p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/neoforge/1.20.6/%5BNeoForge%201.20.6%5DMomentariyModder'Applications%5B7.0.0%5D.jar">NeoForge</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/new-version-mma-and-new-mod">7.1.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/neoforge/1.20.6/%5BNeoForge%201.20.6%5DMomentariyModder'Applications%5B7.1.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
@@ -32,9 +32,9 @@
     </tr>
     <tr>
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center">5.4.0</p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.4.0%5D.jar">NeoForge/Forge</a></p></td>
-        <td><p align="center">LTS</p></td>
+        <td><p align="center"><a href="https://momentariymodder.xyz/blog/new-version-mma-and-new-mod">5.5.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/Supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.5.0%5D.jar">NeoForge/Forge</a></p></td>
+        <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center">5.4.0</p></td>
