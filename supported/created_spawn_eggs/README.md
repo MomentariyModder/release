@@ -22,7 +22,7 @@
         <td><p align="center"><b>1.20.6</b></p></td>
         <td><p align="center"><a href="https://momentariymodder.xyz/blog/triple-update">4.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_spawn_eggs/neoforge/1.20.6/%5BNeoForge%201.20.6%5DCreated%20Spawn%20Eggs%5B4.0.0%5D.jar">NeoForge</a></p></td>
-        <td><p align="center">Active</p></td>
+        <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>

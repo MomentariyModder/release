@@ -22,7 +22,7 @@
         <td><p align="center"><b>1.20.6</b></p></td>
         <td><p align="center"><a href="https://momentariymodder.xyz/blog/cmd-3.9.0-5.2.0">5.2.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_music_discs/neoforge/1.20.6/%5BNeoForge%201.20.6%5DCreated%20Music%20Discs%5B5.2.0%5D.jar">NeoForge</a></p></td>
-        <td><p align="center">Active</p></td>
+        <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
