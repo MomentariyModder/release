@@ -20,13 +20,13 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/iaatm-release">2.0.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/iaatm-release">2.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/its_all_about_money_reload/neoforge/1.20.6/%5BNeoForge%201.20.6%5DIt's%20All%20About%20the%20Money%20Reload%5B2.0.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr
     <tr>
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/iaatm-release">1.0.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/iaatm-release">1.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/its_all_about_money_reload/forge/1.20.1/%5BNeoLexForge%201.20.1%5DIt's%20All%20About%20the%20Money%20Reload%5B1.0.0%5D.jar">NeoLexForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr></tbody>

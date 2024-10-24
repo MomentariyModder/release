@@ -14,25 +14,25 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.21.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/mma-8.0.0">8.0.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/mma-8.0.0">8.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/neoforge/1.21.1/%5BNeoForge%201.21.1%5DMomentariyModder'Applications%5B8.0.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/new-version-mma-and-new-mod">7.1.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/new-version-mma-and-new-mod">7.1.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/neoforge/1.20.6/%5BNeoForge%201.20.6%5DMomentariyModder'Applications%5B7.1.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/mma-6.0.0">6.0.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/mma-6.0.0">6.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/neoforge/1.20.4/%5BNeoForge%201.20.4%5DMomentariyModder'Applications%5B6.0.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
     <tr>
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/new-version-mma-and-new-mod">5.5.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/new-version-mma-and-new-mod">5.5.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.5.0%5D.jar">NeoForge/Forge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>

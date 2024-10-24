@@ -20,13 +20,13 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/nvh-5.1.0">5.1.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/nvh-5.1.0">5.1.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/night_vision_helmets/neoforge/1.20.6/%5BNeoForge%201.20.6%5DNight%20Vision%20Helmets%5B5.1.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.xyz/blog/nvh-4.0.0">4.0.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/nvh-4.0.0">4.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/night_vision_helmets/neoforge/1.20.4/%5BNeoForge%201.20.4%5DNight%20Vision%20Helmets%5B4.0.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
 	</tr>
