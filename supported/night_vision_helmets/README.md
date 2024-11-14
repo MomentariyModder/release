@@ -14,9 +14,9 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.21.1</b></p></td>
-        <td><p align="center">6.0.0</p></td>
-        <td colspan="2"><p align="center">Coming Soon!</p></td>
-        <td><p align="center">Planned</p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/updated-to-1.21.1">6.0.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/night_vision_helmets/neoforge/1.21.1/%5BNeoForge%201.21.1%5DNight%20Vision%20Helmets%5B6.0.0%5D.jar">NeoForge</a></p></td>
+        <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
