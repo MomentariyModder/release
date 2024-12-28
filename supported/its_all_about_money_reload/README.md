@@ -14,8 +14,8 @@
     </tr>
 	<tr>
         <td><p align="center"><b>1.21.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/updated-to-1.21.1">3.0.0</a></p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/its_all_about_money_reload/neoforge/1.21.1/%5BNeoForge%201.21.1%5DIt's%20All%20About%20Money%20Reload%5B3.0.0%5D.jar">NeoForge</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/iaam-3.1.0">3.1.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/its_all_about_money_reload/neoforge/1.21.1/%5BNeoForge%201.21.1%5DIt's%20All%20About%20Money%20Reload%5B3.1.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
