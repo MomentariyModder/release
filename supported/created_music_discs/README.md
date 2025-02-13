@@ -13,31 +13,37 @@
 		<td><h4 align="center">Status</h4></td>
     </tr>
 	<tr>
+        <td><p align="center"><b>1.21.4</b></p></td>
+        <td><p align="center"><a href="">7.0.0</a></p></td>
+        <td colspan="2"><p align="center">Coming Soon!</p></td>
+        <td><p align="center">Active</p></td>
+    </tr>
+	<tr>
         <td><p align="center"><b>1.21.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/cmd-3.10.0-6.0.0">6.0.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.com/blog/cmd-3.10.0-6.0.0">6.0.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_music_discs/neoforge/1.21.1/%5BNeoForge%201.21.1%5DCreated%20Music%20Discs%5B6.0.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.6</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/cmd-3.9.0-5.2.0">5.2.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.com/blog/cmd-3.9.0-5.2.0">5.2.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_music_discs/neoforge/1.20.6/%5BNeoForge%201.20.6%5DCreated%20Music%20Discs%5B5.2.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.20.4</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/cmd-3.7.0-4.1.0">4.1.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.com/blog/cmd-3.7.0-4.1.0">4.1.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_music_discs/neoforge/1.20.4/%5BNeoForge%201.20.4%5DCreated%20Music%20Discs%5B4.1.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">End of Life</p></td>
     </tr>
     <tr>
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
-        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/cmd-3.10.0-6.0.0">3.10.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.com/blog/cmd-3.10.0-6.0.0">3.10.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_music_discs/forge/1.20.1/%5BNeoLexForge%201.20.1%5DCreated%20Music%20Discs%5B3.9.0%5D.jar">NeoForge/Forge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
-        <td><p align="center"><a href="https://momentariymodder.netlify.app/blog/cmd-3.6.0">3.6.0</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.com/blog/cmd-3.6.0">3.6.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/created_music_discs/fabric/1.20.1/%5BFabricQuilt%201.20.1%5DCreated%20Music%20Discs%5B3.6.0%5D.jar">Fabric/Quilt</a></p></td>
 		<td><p align="center">End of Life</p></td>
     </tr>
