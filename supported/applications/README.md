@@ -13,15 +13,15 @@
 		<td><h4 align="center">Status</h4></td>
     </tr>
 	<tr>
-        <td><p align="center"><b>1.21.4</b></p></td>
+        <td><p align="center"><b>1.21.5</b></p></td>
         <td><p align="center"><a href="">9.0.0</a></p></td>
         <td colspan="2"><p align="center">Coming Soon!</p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.21.1</b></p></td>
-        <td><p align="center">8.1.1</p></td>
-        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/neoforge/1.21.1/%5BNeoForge%201.21.1%5DMomentariyModder'Applications%5B8.1.1%5D.jar">NeoForge</a></p></td>
+        <td><p align="center"><a href="https://momentariymodder.com/blog/mma-8.2.0">8.2.0</a></p></td>
+        <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/neoforge/1.21.1/%5BNeoForge%201.21.1%5DMomentariyModder'Applications%5B8.2.0%5D.jar">NeoForge</a></p></td>
         <td><p align="center">Active</p></td>
     </tr>
 	<tr>
