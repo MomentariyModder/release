@@ -16,7 +16,7 @@
         <td><p align="center"><b>1.21.5</b></p></td>
         <td><p align="center"><a href="">6.0.0</a></p></td>
         <td colspan="2"><p align="center">Coming Soon!</p></td>
-        <td><p align="center">Active</p></td>
+        <td><p align="center">Planned</p></td>
     </tr>
 	<tr>
         <td><p align="center"><b>1.21.1</b></p></td>
