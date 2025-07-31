@@ -13,8 +13,8 @@
 		<td><h4 align="center">Status</h4></td>
     </tr>
 	<tr>
-        <td><p align="center"><b>1.21.5</b></p></td>
-        <td><p align="center"><a href="">7.0.0</a></p></td>
+        <td><p align="center"><b>1.21.8</b></p></td>
+        <td><p align="center">7.0.0</p></td>
         <td colspan="2"><p align="center">Coming Soon!</p></td>
         <td><p align="center">Planned</p></td>
     </tr>

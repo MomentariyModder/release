@@ -13,8 +13,8 @@
 		<td><h4 align="center">Status</h4></td>
     </tr>
 	<tr>
-        <td><p align="center"><b>1.21.5</b></p></td>
-        <td><p align="center"><a href="">9.0.0</a></p></td>
+        <td><p align="center"><b>1.21.8</b></p></td>
+        <td><p align="center">9.0.0</p></td>
         <td colspan="2"><p align="center">Coming Soon!</p></td>
         <td><p align="center">Planned</p></td>
     </tr>
@@ -40,7 +40,7 @@
         <td rowspan="2"><p align="center"><b>1.20.1</b></p></td>
         <td><p align="center"><a href="https://momentariymodder.com/blog/new-version-mma-and-new-mod">5.5.0</a></p></td>
         <td colspan="2"><p align="center"><a href="https://github.com/MomentariyModder/release/blob/main/supported/applications/forge/1.20.1/%5BNeoLexForge%201.20.1%5DMomentariyModder'Applications%5B5.5.0%5D.jar">NeoForge/Forge</a></p></td>
-        <td><p align="center">Active</p></td>
+        <td><p align="center">End of Life</p></td>
     </tr>
 	<tr>
         <td><p align="center">5.4.0</p></td>
